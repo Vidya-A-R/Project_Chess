@@ -1,0 +1,44 @@
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.exe
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.deps.json
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.runtimeconfig.json
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.dll
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.pdb
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfoInputs.cache
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfo.cs
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.csproj.CoreCompileInputs.cache
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.dll
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\refint\Project_Chess.dll
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.pdb
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.genruntimeconfig.cache
+c:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\ref\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.sourcelink.json
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\refint\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.pdb
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\bin\Debug\net8.0\Project_Chess.exe
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\bin\Debug\net8.0\Project_Chess.deps.json
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\bin\Debug\net8.0\Project_Chess.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\bin\Debug\net8.0\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\bin\Debug\net8.0\Project_Chess.pdb
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\Project_Chess.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Project_Chess_BC\Project_Chess\obj\Debug\net8.0\ref\Project_Chess.dll
+C:\Users\diovi\Desktop\Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.sourcelink.json
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.exe
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.deps.json
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.runtimeconfig.json
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.dll
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\bin\Debug\net8.0\Project_Chess.pdb
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfoInputs.cache
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfo.cs
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.csproj.CoreCompileInputs.cache
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.dll
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\refint\Project_Chess.dll
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.pdb
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.genruntimeconfig.cache
+C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\ref\Project_Chess.dll
