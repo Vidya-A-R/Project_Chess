@@ -42,3 +42,18 @@ C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\refi
 C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.pdb
 C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\Project_Chess.genruntimeconfig.cache
 C:\Users\diovi\Desktop\Back_Up_Project_Chess\Project_Chess\obj\Debug\net8.0\ref\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess\bin\Debug\net8.0\Project_Chess.exe
+C:\Users\Batch 8\Desktop\Project_Chess\bin\Debug\net8.0\Project_Chess.deps.json
+C:\Users\Batch 8\Desktop\Project_Chess\bin\Debug\net8.0\Project_Chess.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Project_Chess\bin\Debug\net8.0\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess\bin\Debug\net8.0\Project_Chess.pdb
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.sourcelink.json
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\refint\Project_Chess.dll
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.pdb
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\Project_Chess.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Project_Chess\obj\Debug\net8.0\ref\Project_Chess.dll

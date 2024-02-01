@@ -1,2 +1,0 @@
-namespace Project_Chess;
-

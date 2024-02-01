@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\diovi\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 8\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diovi\\Desktop\\Back_Up_Project_Chess\\Project_Chess\\Project_Chess.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 8\\Desktop\\Project_Chess\\Project_Chess.csproj",
       "projectName": "Project_Chess",
-      "projectPath": "C:\\Users\\diovi\\Desktop\\Back_Up_Project_Chess\\Project_Chess\\Project_Chess.csproj",
-      "packagesPath": "C:\\Users\\diovi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diovi\\Desktop\\Back_Up_Project_Chess\\Project_Chess\\obj\\",
+      "projectPath": "c:\\Users\\Batch 8\\Desktop\\Project_Chess\\Project_Chess.csproj",
+      "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Batch 8\\Desktop\\Project_Chess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diovi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
